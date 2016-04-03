@@ -1,0 +1,31 @@
+30
+Grand Canyon, AZ
+Page, AZ
+Williams, AZ
+Flagstaff, AZ
+Phoenix, AZ
+Eureka, CA
+Redding, CA
+San Francisco, CA
+Sacramento, CA
+Yosemite, CA
+Estes Park, CO
+Denver, CO
+Grand Junction, CO
+Kit Carson, CO
+Pueblo, CO
+Tallahassee, FL
+Jacksonville, FL
+Gainesville, FL
+Daytona Beach, FL
+Orlando, FL
+Twin Falls, ID
+Chicago, IL
+Peoria, IL
+Springfield, IL
+Cairo, IL
+Oakley, KS
+Hays, KS
+Salina, KS
+Great Bend, KS
+Dodge City, KS
